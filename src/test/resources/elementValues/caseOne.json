@@ -1,0 +1,52 @@
+[
+  {
+    "key": "skipBtn",
+    "value": "com.allandroidprojects.getirsample:id/btn_skip",
+    "type": "id"
+  },
+  {
+    "key": "toolbar",
+    "value": "com.allandroidprojects.getirsample:id/toolbar",
+    "type": "id"
+  },
+  {
+    "key": "waterBtn",
+    "value": "//android.support.v7.app.ActionBar.Tab[@content-desc='Water']/android.widget.TextView",
+    "type": "xpath"
+  },
+  {
+    "key": "firstWaterElement",
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.support.v4.view.ViewPager/android.support.v7.widget.RecyclerView/android.widget.FrameLayout[1]/android.widget.LinearLayout",
+    "type": "xpath"
+  },
+  {
+    "key": "addToCartBtn",
+    "value": "com.allandroidprojects.getirsample:id/text_action_bottom1",
+    "type": "id"
+  },
+  {
+    "key": "addToCartBtns",
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView[1]\n1",
+    "type": "xpath"
+  },
+  {
+    "key": "basketBtn",
+    "value": "com.allandroidprojects.getirsample:id/action_cart",
+    "type": "id"
+  },
+  {
+    "key": "itemName",
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.LinearLayout/android.widget.TextView[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "itemPrice",
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.LinearLayout/android.widget.TextView[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "deleteItemBtn",
+    "value": "com.allandroidprojects.getirsample:id/text_action1",
+    "type": "id"
+  }
+]

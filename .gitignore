@@ -1,0 +1,11 @@
+.gauge/
+.idea/
+reports/
+target/
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.m2e.core.prefs
+logs/
+api.log
+gauge.log
+Baseproject.iml
+.out/

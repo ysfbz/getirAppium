@@ -1,0 +1,14 @@
+# Open the left menu and Go To BabyCare category
+* "leftMenuBtn" click button
+* "1" second wait
+* "babyCareBtn" click button
+
+# Pick the third item and Check the Price is:<price>
+* "thirdBabyElement" click button
+* "1" second wait
+* Is the text value of "babyItemPrice" element is equal to <price>
+
+# Go back and check if UpperMenu item is exist
+* Go back
+* "2" second wait
+* "babyCareUpperMenuBtn" check element

@@ -1,0 +1,26 @@
+# Go to getir main page and check the toolbar if it is exist
+
+* "3" second wait
+* "skipBtn" click button
+* "toolbar" check element
+
+# Go to Water tab and pick the first one and add to the basket card
+
+* "waterBtn" click button
+* "firstWaterElement" click button
+* "2" second wait
+* "addToCartBtn" click button
+
+# Go to basket and and check the values of the item: Name <name> and Price:<price>
+
+* "2" second wait
+* Go back
+* "basketBtn" click button
+* "2" second wait
+* Is the text value of "itemName" element is equal to <name>
+* Is the text value of "itemPrice" element is equal to <price>
+
+# Remove the item from the basket
+
+* "deleteItemBtn" click button
+* "3" second wait
